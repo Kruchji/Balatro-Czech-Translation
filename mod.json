@@ -1,0 +1,10 @@
+{
+    "id": "czech_language_mod",
+    "name": "Czech Language Mod",
+    "author": ["Jiri Kruchina"],
+    "description": "Adds Czech localization to Balatro",
+    "badge_colour": "9812FF",
+    "version": "1.0.0",
+    "prefix": "cze",
+    "main_file": "main.lua"
+}
