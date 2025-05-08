@@ -1,7 +1,7 @@
 {
     "id": "czech_language_mod",
     "name": "Czech Language Mod",
-    "author": ["Jiri Kruchina"],
+    "author": ["Jiri Kruchina", "Katerina Kruchinova"],
     "description": "Adds Czech localization to Balatro",
     "badge_colour": "9812FF",
     "version": "1.0.0",
